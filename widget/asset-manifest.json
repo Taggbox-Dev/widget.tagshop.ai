@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/widget/static/css/main.af060d2a.css",
-    "main.js": "/widget/static/js/main.d94fd795.js",
+    "main.js": "/widget/static/js/main.ca8deec4.js",
     "static/js/1889.eaf3671f.chunk.js": "/widget/static/js/1889.eaf3671f.chunk.js",
     "static/js/2559.7e77d2f4.chunk.js": "/widget/static/js/2559.7e77d2f4.chunk.js",
     "static/js/9158.98b27dfa.chunk.js": "/widget/static/js/9158.98b27dfa.chunk.js",
-    "static/js/9681.efe07928.chunk.js": "/widget/static/js/9681.efe07928.chunk.js",
+    "static/js/9681.40d73663.chunk.js": "/widget/static/js/9681.40d73663.chunk.js",
     "static/js/2167.c9196555.chunk.js": "/widget/static/js/2167.c9196555.chunk.js",
     "static/js/92.80f1de7a.chunk.js": "/widget/static/js/92.80f1de7a.chunk.js",
     "static/js/5812.35aa38b3.chunk.js": "/widget/static/js/5812.35aa38b3.chunk.js",
@@ -124,11 +124,11 @@
     "static/media/swiper.less": "/widget/static/media/swiper.14b4eb7236689bbe16a7.less",
     "index.html": "/widget/index.html",
     "main.af060d2a.css.map": "/widget/static/css/main.af060d2a.css.map",
-    "main.d94fd795.js.map": "/widget/static/js/main.d94fd795.js.map",
+    "main.ca8deec4.js.map": "/widget/static/js/main.ca8deec4.js.map",
     "1889.eaf3671f.chunk.js.map": "/widget/static/js/1889.eaf3671f.chunk.js.map",
     "2559.7e77d2f4.chunk.js.map": "/widget/static/js/2559.7e77d2f4.chunk.js.map",
     "9158.98b27dfa.chunk.js.map": "/widget/static/js/9158.98b27dfa.chunk.js.map",
-    "9681.efe07928.chunk.js.map": "/widget/static/js/9681.efe07928.chunk.js.map",
+    "9681.40d73663.chunk.js.map": "/widget/static/js/9681.40d73663.chunk.js.map",
     "2167.c9196555.chunk.js.map": "/widget/static/js/2167.c9196555.chunk.js.map",
     "92.80f1de7a.chunk.js.map": "/widget/static/js/92.80f1de7a.chunk.js.map",
     "5812.35aa38b3.chunk.js.map": "/widget/static/js/5812.35aa38b3.chunk.js.map",
@@ -247,6 +247,6 @@
   },
   "entrypoints": [
     "static/css/main.af060d2a.css",
-    "static/js/main.d94fd795.js"
+    "static/js/main.ca8deec4.js"
   ]
 }
