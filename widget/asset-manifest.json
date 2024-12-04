@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.tagshop.ai/widget/static/css/main.37209fab.css",
-    "main.js": "https://widget.tagshop.ai/widget/static/js/main.64e7fcbf.js",
+    "main.js": "https://widget.tagshop.ai/widget/static/js/main.f5f42a54.js",
     "static/js/7774.fb3088c1.chunk.js": "https://widget.tagshop.ai/widget/static/js/7774.fb3088c1.chunk.js",
     "static/js/4355.8fc92e09.chunk.js": "https://widget.tagshop.ai/widget/static/js/4355.8fc92e09.chunk.js",
     "static/js/3032.796a69e2.chunk.js": "https://widget.tagshop.ai/widget/static/js/3032.796a69e2.chunk.js",
@@ -76,7 +76,7 @@
     "static/css/9159.c07684a1.chunk.css": "https://widget.tagshop.ai/widget/static/css/9159.c07684a1.chunk.css",
     "static/js/9159.e5081e83.chunk.js": "https://widget.tagshop.ai/widget/static/js/9159.e5081e83.chunk.js",
     "static/css/7694.de39f026.chunk.css": "https://widget.tagshop.ai/widget/static/css/7694.de39f026.chunk.css",
-    "static/js/7694.453ab7fe.chunk.js": "https://widget.tagshop.ai/widget/static/js/7694.453ab7fe.chunk.js",
+    "static/js/7694.64df15ff.chunk.js": "https://widget.tagshop.ai/widget/static/js/7694.64df15ff.chunk.js",
     "static/css/8635.0da8259c.chunk.css": "https://widget.tagshop.ai/widget/static/css/8635.0da8259c.chunk.css",
     "static/js/8635.ee28968f.chunk.js": "https://widget.tagshop.ai/widget/static/js/8635.ee28968f.chunk.js",
     "static/css/441.37a1928b.chunk.css": "https://widget.tagshop.ai/widget/static/css/441.37a1928b.chunk.css",
@@ -135,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.37209fab.css",
-    "static/js/main.64e7fcbf.js"
+    "static/js/main.f5f42a54.js"
   ]
 }
