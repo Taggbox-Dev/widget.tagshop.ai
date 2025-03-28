@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[5790],{55790:(e,t,s)=>{s.r(t),s.d(t,{default:()=>r});var a=s(47313),c=s(46335),d=s(46417);const l=e=>{const{createdAt:t,timeClass:s}=e;return(0,d.jsx)("div",{className:s,role:"status","aria-label":"post timestamp ".concat((0,c.Sy)(t)),children:(0,c.Sy)(t)})},r=(0,a.memo)(l)}}]);
