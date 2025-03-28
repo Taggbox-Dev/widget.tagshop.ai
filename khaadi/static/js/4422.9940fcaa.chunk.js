@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[4422],{34422:(e,s,d)=>{d.r(s),d.d(s,{default:()=>a});d(47313);var t=d(46417);const a=e=>{const{sepClass:s}=e;return(0,t.jsx)("div",{className:s,children:"   "})}}}]);
