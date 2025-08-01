@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.tagshop.ai/widget/static/css/main.fe29c8ce.css",
-    "main.js": "https://widget.tagshop.ai/widget/static/js/main.2efe0793.js",
+    "main.js": "https://widget.tagshop.ai/widget/static/js/main.7b9606ae.js",
     "static/css/2563.7e5ff367.chunk.css": "https://widget.tagshop.ai/widget/static/css/2563.7e5ff367.chunk.css",
     "static/js/2563.ab09bda1.chunk.js": "https://widget.tagshop.ai/widget/static/js/2563.ab09bda1.chunk.js",
     "static/css/142.546acb9c.chunk.css": "https://widget.tagshop.ai/widget/static/css/142.546acb9c.chunk.css",
@@ -29,11 +29,11 @@
     "static/css/4971.6b80cc3f.chunk.css": "https://widget.tagshop.ai/widget/static/css/4971.6b80cc3f.chunk.css",
     "static/js/4971.0660e33d.chunk.js": "https://widget.tagshop.ai/widget/static/js/4971.0660e33d.chunk.js",
     "static/css/912.00aacdd1.chunk.css": "https://widget.tagshop.ai/widget/static/css/912.00aacdd1.chunk.css",
-    "static/js/912.375c2998.chunk.js": "https://widget.tagshop.ai/widget/static/js/912.375c2998.chunk.js",
+    "static/js/912.6719ed51.chunk.js": "https://widget.tagshop.ai/widget/static/js/912.6719ed51.chunk.js",
     "static/css/4189.c34b03ff.chunk.css": "https://widget.tagshop.ai/widget/static/css/4189.c34b03ff.chunk.css",
     "static/js/4189.07d1897c.chunk.js": "https://widget.tagshop.ai/widget/static/js/4189.07d1897c.chunk.js",
     "static/css/3820.f0fd4beb.chunk.css": "https://widget.tagshop.ai/widget/static/css/3820.f0fd4beb.chunk.css",
-    "static/js/3820.da6404f7.chunk.js": "https://widget.tagshop.ai/widget/static/js/3820.da6404f7.chunk.js",
+    "static/js/3820.350267c6.chunk.js": "https://widget.tagshop.ai/widget/static/js/3820.350267c6.chunk.js",
     "static/css/4622.b73414d3.chunk.css": "https://widget.tagshop.ai/widget/static/css/4622.b73414d3.chunk.css",
     "static/js/4622.99397c84.chunk.js": "https://widget.tagshop.ai/widget/static/js/4622.99397c84.chunk.js",
     "static/css/8674.744d4331.chunk.css": "https://widget.tagshop.ai/widget/static/css/8674.744d4331.chunk.css",
@@ -184,6 +184,6 @@
   },
   "entrypoints": [
     "static/css/main.fe29c8ce.css",
-    "static/js/main.2efe0793.js"
+    "static/js/main.7b9606ae.js"
   ]
 }
