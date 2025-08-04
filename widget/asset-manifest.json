@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.tagshop.ai/widget/static/css/main.8580f298.css",
-    "main.js": "https://widget.tagshop.ai/widget/static/js/main.2b6df492.js",
+    "main.js": "https://widget.tagshop.ai/widget/static/js/main.833cf1cb.js",
     "static/css/2563.ef1e2ae2.chunk.css": "https://widget.tagshop.ai/widget/static/css/2563.ef1e2ae2.chunk.css",
     "static/js/2563.0cb4fba3.chunk.js": "https://widget.tagshop.ai/widget/static/js/2563.0cb4fba3.chunk.js",
     "static/css/142.b037b09c.chunk.css": "https://widget.tagshop.ai/widget/static/css/142.b037b09c.chunk.css",
@@ -184,6 +184,6 @@
   },
   "entrypoints": [
     "static/css/main.8580f298.css",
-    "static/js/main.2b6df492.js"
+    "static/js/main.833cf1cb.js"
   ]
 }
