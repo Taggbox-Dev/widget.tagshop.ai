@@ -26,8 +26,8 @@
     <script></script>
     <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } })</script>
     <script defer="defer"
-        src="https://widget.tagshop.ai/widget/static/js/main.7561c8ea4e4c2dbb76ba.js?v=202511140648"></script>
-    <link href="https://widget.tagshop.ai/widget/static/css/main.4355a85c1ebbeb1b13dc.css?v=202511140648"
+        src="https://widget.tagshop.ai/widget/static/js/main.e6bfebc6893b1507063c.js?v=202511141310"></script>
+    <link href="https://widget.tagshop.ai/widget/static/css/main.4355a85c1ebbeb1b13dc.css?v=202511141310"
         rel="stylesheet">
 </head>
 
